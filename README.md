@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Anurag Jhariya
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=500&lines=CSE+Student;Web+Developer+in+Progress;Building+Cool+Projects;Future+Full+Stack+Developer" />
-</p>
 
 ---
 
@@ -45,9 +42,8 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anurag1707/Anurag1707/output/github-contribution-grid-snake.svg" />
-</p>
+
+![snake gif](https://raw.githubusercontent.com/Anurag1707/Anurag1707/output/github-snake-dark.svg)
 
 ---
 
