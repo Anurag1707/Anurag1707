@@ -1,19 +1,59 @@
-Hiii! I'm Anurag Jhariya 
-computer science programmer
+# 👋 Hey, I'm Anurag Jhariya
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anurag-jhariya-984a1732b/) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Anurag1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Anurag1707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anurag1707&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=500&lines=CSE+Student;Web+Developer+in+Progress;Building+Cool+Projects;Future+Full+Stack+Developer" />
+</p>
 
 ---
-![snake gif](https://github.com/Anurag1707/Anurag1707/blob/output/github-snake-dark.svg)
 
-[![](https://komarev.com/ghpvc/?username=Anurag1707&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 Passionate about building things that help in real world
+
+* 🎓 B.Tech CSE Student
+* 🧠 Problem Solver
+* 💻 Learning Web Development
+* 🎯 Focused on Growth & Consistency
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+🚀 **Zomato Clone**
+
+* Dynamic user cart
+* Clean UI & respone things
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anurag1707&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag1707&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anurag1707/Anurag1707/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+if you are dreaming ,
+then dream big!!!
+
+## 🤝 Let's Connect
+
+💬 Open for collaboration & learning
