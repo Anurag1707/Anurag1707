@@ -43,7 +43,7 @@
 ## 🐍 Contribution Snake
 
 
-![snake gif](https://raw.githubusercontent.com/Anurag1707/Anurag1707/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Anurag1707/Anurag1707/output/github-snake.svg)
 
 ---
 
