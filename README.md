@@ -10,7 +10,6 @@
 * 🎓 B.Tech CSE Student
 * 🧠 Problem Solver
 * 💻 Learning Web Development
-* 🎯 Focused on Growth & Consistency
 
 ---
 
